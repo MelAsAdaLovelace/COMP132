@@ -1,0 +1,8 @@
+﻿  GuessGame.c
+c:\users\straw\desktop\every şey\bİrçok okul derslerİ ve İçerİklerİ\2016-2017\2017spring\comp132\homeworks\hw5\hw5 by mel\hw5 by mel\guessgame.c(21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\straw\desktop\every şey\bİrçok okul derslerİ ve İçerİklerİ\2016-2017\2017spring\comp132\homeworks\hw5\hw5 by mel\hw5 by mel\guessgame.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\straw\desktop\every şey\bİrçok okul derslerİ ve İçerİklerİ\2016-2017\2017spring\comp132\homeworks\hw5\hw5 by mel\hw5 by mel\guessgame.c(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  HW5 by Mel.vcxproj -> C:\Users\straw\Desktop\Every şey\BİRÇOK OKUL DERSLERİ VE İÇERİKLERİ\2016-2017\2017SPRING\COMP132\Homeworks\HW5\HW5 by Mel\Debug\HW5 by Mel.exe
+  HW5 by Mel.vcxproj -> C:\Users\straw\Desktop\Every şey\BİRÇOK OKUL DERSLERİ VE İÇERİKLERİ\2016-2017\2017SPRING\COMP132\Homeworks\HW5\HW5 by Mel\Debug\HW5 by Mel.pdb (Full PDB)
