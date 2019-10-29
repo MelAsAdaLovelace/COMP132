@@ -1,0 +1,18 @@
+﻿  mobilePhone.c
+mobilePhone.c(55): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+mobilePhone.c(58): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+mobilePhone.c(76): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+mobilePhone.c(78): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+mobilePhone.c(93): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+mobilePhone.c(95): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+mobilePhone.c(111): warning C4047: 'function': 'int' differs in levels of indirection from 'char *'
+mobilePhone.c(111): warning C4024: 'isdigit': different types for formal and actual parameter 1
+mobilePhone.c(111): warning C4047: '!=': 'char *' differs in levels of indirection from 'int'
+mobilePhone.c(114): warning C4047: 'function': 'int' differs in levels of indirection from 'char *'
+mobilePhone.c(114): warning C4024: 'isalpha': different types for formal and actual parameter 1
+mobilePhone.c(127): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+mobilePhone.c(134): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+mobilePhone.c(138): error C2371: 'caesarCipher': redefinition; different basic types
+  mobilePhone.c(15): note: see declaration of 'caesarCipher'
