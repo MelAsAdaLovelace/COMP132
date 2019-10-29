@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\straw\desktop\every şey\bİrçok okul derslerİ ve İçerİklerİ\2016-2017\2017spring\comp132\study\happy primes\happy primes\main.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\straw\desktop\every şey\bİrçok okul derslerİ ve İçerİklerİ\2016-2017\2017spring\comp132\study\happy primes\happy primes\main.cpp(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\straw\desktop\every şey\bİrçok okul derslerİ ve İçerİklerİ\2016-2017\2017spring\comp132\study\happy primes\happy primes\main.cpp(82): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Happy Primes.vcxproj -> C:\Users\straw\Desktop\Every şey\BİRÇOK OKUL DERSLERİ VE İÇERİKLERİ\2016-2017\2017SPRING\COMP132\Study\Happy Primes\Debug\Happy Primes.exe
+  Happy Primes.vcxproj -> C:\Users\straw\Desktop\Every şey\BİRÇOK OKUL DERSLERİ VE İÇERİKLERİ\2016-2017\2017SPRING\COMP132\Study\Happy Primes\Debug\Happy Primes.pdb (Full PDB)
